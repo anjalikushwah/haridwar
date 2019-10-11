@@ -240,7 +240,7 @@ button.swiper-pagination-bullet {
 }
 .swiper-container-vertical > .swiper-pagination-bullets {
   right: 15px;
-  bottom: 60px;
+  bottom: 5vh;
 }
 .swiper-container-vertical
   > .swiper-pagination-bullets .swiper-pagination-bullet {
@@ -393,7 +393,7 @@ button.swiper-pagination-bullet {
   width: 1px;
   height: 60px;
   position: absolute;
-  bottom: 60px;
+  bottom: 5vh;
   left: 0;
   right: 0;
   margin: 0 auto;
@@ -429,8 +429,13 @@ button.swiper-pagination-bullet {
   h1 + p {
     font-size: .9em;
   }
+
   .swiper-pagination-bullet {
     width: 5px;
     height: 5px;
+  }
+
+  .swiper-image-inner {
+    padding: 2rem;
   }
 }
