@@ -37,6 +37,18 @@
   background-image: url(../img/bg7.jpg);
 }
 
+.swiper-image-eight {
+  background-image: url(../img/bg8.jpg);
+}
+
+.swiper-image-nine {
+  background-image: url(../img/bg9.jpg);
+}
+
+.swiper-image-ten {
+  background-image: url(../img/bg10.jpg);
+}
+
 .swiper-image {
   width: 100%;
   height: 100%;
