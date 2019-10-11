@@ -336,11 +336,11 @@ main {
 
 @media screen and (max-width: 50em) {
 	.content__title {
-		font-size: 5em;
+		font-size: 4em;
 	}
 	.content__text {
-		padding: 1em;
-		font-size: 1em;
+		padding: .7em;
+		font-size: .9em;
 	}
 	.enter {    
 		font-size: .9em;
