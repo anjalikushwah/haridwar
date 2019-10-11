@@ -240,7 +240,7 @@ button.swiper-pagination-bullet {
 }
 .swiper-container-vertical > .swiper-pagination-bullets {
   right: 15px;
-  bottom: 3vh;
+  bottom: 30px;
 }
 .swiper-container-vertical
   > .swiper-pagination-bullets .swiper-pagination-bullet {
@@ -365,7 +365,7 @@ button.swiper-pagination-bullet {
   bottom: 3px;
   z-index: 50;
   height: 5px;
-  width: 98%;
+  width: 100%;
 }
 .swiper-container-vertical > .swiper-scrollbar {
   position: absolute;
@@ -393,7 +393,7 @@ button.swiper-pagination-bullet {
   width: 1px;
   height: 60px;
   position: absolute;
-  bottom: 3vh;
+  bottom: 30px;
   left: 0;
   right: 0;
   margin: 0 auto;
@@ -431,8 +431,8 @@ button.swiper-pagination-bullet {
   }
 
   .swiper-pagination-bullet {
-    width: 5px;
-    height: 5px;
+    width: 6px;
+    height: 6px;
   }
 
   .swiper-image-inner {
