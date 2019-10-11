@@ -150,7 +150,7 @@ main {
 .content__title {
 	font: var(--font-alt);
 	color: var(--color-title);
-	margin: 0;
+	margin: 0 0 100px 0;
 	line-height: 1;
 	font-size: 10em;
 	text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
